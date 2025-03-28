@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is Sabina and I'm a  Frontend developer, from Uzbekistan</h2>
+<h2 align="left">Hi 👋! My name is Sabina 
+
+
+
+  
+  I'm a  Frontend developer 👨🏻‍💻,
+  
+  
+  from Uzbekistan❤️</h2>
 
 ###
 
